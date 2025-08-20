@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nome": "Ação VALE3",
+    "tipo": "Ação",
+    "valor": 5000,
+    "data": "2024-07-20"
+  },
+  {
+    "id": 2,
+    "nome": "Fundo Imobiliário HGLG11",
+    "tipo": "Fundo",
+    "valor": 3500,
+    "data": "2024-05-15"
+  },
+  {
+    "nome": "CDB Banco do Brasil",
+    "tipo": "Renda Fixa",
+    "valor": "5000",
+    "data": "2025-08-08",
+    "id": 3
+  }
+]

@@ -1,0 +1,11 @@
+# Dependências
+/node_modules
+
+# Arquivos de log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivo de "banco de dados" local (opcional, mas recomendado não enviar dados)
+# Se quiser enviar com os dados iniciais, comente a linha abaixo
+#db.json
